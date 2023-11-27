@@ -30,6 +30,7 @@ main {
 
 #container {
     width: 50%;
+    min-height:60%;
     display: flex;
     padding: 1.3rem;
     border-radius: 1.3rem;
