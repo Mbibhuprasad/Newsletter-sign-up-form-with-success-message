@@ -138,7 +138,7 @@ button:hover {
 
 #success-page {
     display: none;
-    max-width: 22rem;
+    max-width: 23rem;
     border-radius: 1rem;
     background-color: var(--White);
     padding: 1.8rem;
