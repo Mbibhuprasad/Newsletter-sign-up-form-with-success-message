@@ -144,6 +144,9 @@ button:hover {
     padding: 1.8rem;
 }
 
+#success-page h1{
+    font-family:2.3rem;
+
 #success-page p{
     line-height: 1.2rem;
 }
